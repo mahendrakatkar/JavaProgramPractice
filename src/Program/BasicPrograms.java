@@ -16,7 +16,8 @@ public class BasicPrograms {
 					n2=n3; } 
 					*/
 					
-// prime number p
+// prime number program test
+		
 		/*
 		 * int i, n=13, m; m=n/2; int flag=0; if(n==0 || n==1) {
 		 * System.out.println("number is not prime"); } else { for(i=2;i<=m;i++) { if
